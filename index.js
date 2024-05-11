@@ -27,3 +27,7 @@ function printPrimesUpToN(N) {
   // Example usage:
   printPrimesUpToN(100); // Prints all prime numbers up to 100
   
+
+function add(a, b) {
+  return a + b;
+}
